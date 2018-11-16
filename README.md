@@ -1,5 +1,5 @@
 # Colab-by-fork! v1.2
-##lets edit this file  build a simple readme for the team to referance.
+## Let's edit this file & build a simple readme for the team to referance.
 
 - fork
 - create a branch
